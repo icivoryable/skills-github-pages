@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Projectz",
+    "name": "projectz",
+    "homepage": "https://github.com/bevry/projectz",
+    "demo": "https://github.com/bevry/projectz",
+    "description": "Stop wasting time syncing and updating your project's README and Package Files!",
+    "license": "MIT",
+    "browsers": true,
+    "author": "2013+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+    "technologies": ["JavaScript", "Node.js", "GitHub"]
+  }
+]
