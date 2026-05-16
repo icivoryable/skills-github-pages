@@ -1,12 +1,20 @@
 ---
 title: Ian Ivory - Developer Portfolio
+description: Full-stack developer building accessible, inclusive digital experiences for the neurodivergent community
+keywords: web development, accessibility, react, python, inclusive design
 layout: default
 ---
 
 # Ian Ivory
-**Developer | Problem Solver | Neurodivergent Advocate**
+**Full-Stack Developer | Accessibility Advocate | Neurodivergent Community Builder**
 
-Passionate about building accessible, meaningful solutions for the neurodivergent community. I combine technical expertise with a commitment to creating inclusive digital experiences.
+I build inclusive, accessible web applications that empower neurodivergent users. With expertise in modern web technologies, I focus on creating digital experiences that work for everyone—combining technical excellence with intentional design.
+
+---
+
+## About Me
+
+Passionate about the intersection of technology and accessibility, I'm dedicated to creating solutions that remove barriers for neurodivergent individuals. I believe accessible design benefits everyone, and I advocate for inclusive practices throughout the development process.
 
 ---
 
@@ -22,7 +30,7 @@ React, Django, Jekyll, Node.js
 Git, GitHub, VS Code, PostgreSQL, REST APIs
 
 **Specialties**
-Responsive Design, Web Development, Database Design, Accessible Interfaces
+Responsive Design, Web Development, Database Design, Accessible Interfaces (WCAG), Inclusive UX
 
 ---
 
@@ -50,13 +58,13 @@ My work showcases a focus on creating impactful, well-built solutions:
 
 ## Professional Experience
 
-### Role Title at Company
-**Month Year - Present**
-Brief description of responsibilities and achievements in this role.
+*Your professional experience details go here. Share roles, companies, key achievements, and impact made.*
 
-### Previous Role at Company
-**Month Year - Month Year**
-Brief description of responsibilities and achievements in this role.
+---
+
+## Open Source Contributions
+
+I'm committed to building community-driven solutions. Check out my GitHub for contributions and projects that advance accessibility in web development.
 
 ---
 
@@ -64,7 +72,7 @@ Brief description of responsibilities and achievements in this role.
 
 - **GitHub:** [@icivoryable](https://github.com/icivoryable)
 - **Email:** ivory.ian.c@gmail.com
-- **LinkedIn:** [Your Profile](#)
+- **LinkedIn:** [Connect with me](#) *(Update with your LinkedIn URL)*
 
 ---
 
